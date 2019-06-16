@@ -4,7 +4,7 @@
 
 <p> Machine learning unsupervised learning, Clustering image colors, use different hyper-parameter. </p>
 
-<p> Calculate from every epoch, centroids distance, and displaying convergence over iterations. </p>
+<p> Calculate avg loss from in every epoch, and plot convergence over iterations. </p>
 
 <p> Run for 10 epochs for K= 2, 4, 8, 16. </p> 
 
