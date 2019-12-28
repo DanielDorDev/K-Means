@@ -1,8 +1,8 @@
 # K-Means
 
-<p> K-Means implementation, first steps in ML and refresh python skills.</p>
+<p> K-Means implementation, first steps in ML.</p>
 
-<p> Machine learning unsupervised learning, Clustering image colors, use different hyper-parameter. </p>
+<p> Machine learning unsupervised learning, Clustering image colors, used different hyper-parameter. </p>
 
 <p> Calculate avg loss from in every epoch, and plot convergence over iterations. </p>
 
